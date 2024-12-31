@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/ecommerce_catalog_db?serverTimezone=Asia/Seoul
+    username: root
+    password: "{cipher}AQCXQRuByfnC7xCit4EqRQnWkYeI/4lYxEek0F8+usU3zMBoyMTPZHbBUvNSWsPJ+734LW4Zku5v1Vlx1kc98jITgIuPsgmZNZPnZJNUIN1mdU2SthLkjPT7VTLyqCxLoYDpeTARA6jpSb65e700JS8/Zcm7ojBpjlyXfbFFjSL7OunOc48Li4QU7sWYnPfTQeiR4XZu4wxvslKoCpNnbKvpgNZ4cN7kpNAQTZ9s2Wc6zcL0VJfQm+1PhTfFieaGFvJeFWW4ZZxoutoglQm8dN6cxPPC9bnwbidQqcQ8YFVhwHhEMF8A6z0ZtZqfiMuGgOE9mxX6ZpwbcOF85jaXjF+7JsVn8BkHgsNkisdIDLieXvbuKl1toJ0mQfuRKJxPFe0="
+
+gateway:
+  ip: 192.168.0.45

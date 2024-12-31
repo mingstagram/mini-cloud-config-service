@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: default-8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918b167a9c873fc4bb88c6976e5b5410415bde908bd4dee15dfa81f6f2ab448a918
+  secret: user_token_native_miniserver_8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918b167a9c873fc4bb88c6976e5b5410415bde908bd4dee15dfa81f6f2ab448a918
 
 gateway:
   ip: 192.168.0.45
